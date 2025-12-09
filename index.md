@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Shark vs Dolphin Classification
+title: Shark vs Dolphin Classification with SurfSight-2C
 nav_order: 1
 ---
 
