@@ -1,13 +1,3 @@
-
-If you don’t have example images yet, you can temporarily keep those image lines or remove them.
-
----
-
-## 6. Page 2 – Technical Approach (`technical.md`)
-
-Create `technical.md`:
-
-```markdown
 ---
 layout: page
 title: Technical Approach with AlexNet
